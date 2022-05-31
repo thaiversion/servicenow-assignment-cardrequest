@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Card Request Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Card Request Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">244e166aa5300110c0a0e1db2cdc9521</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 19:26:56</sys_created_on>
+        <sys_id>7b8d28b147fb011036c77868f36d43d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Card Request Task</sys_name>
+        <sys_package display_value="Card Request" source="x_766968_card_requ">114b207d47bb011036c77868f36d436e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Card Request">114b207d47bb011036c77868f36d436e</sys_scope>
+        <sys_update_name>sys_wizard_answer_7b8d28b147fb011036c77868f36d43d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 19:26:56</sys_updated_on>
+        <table/>
+        <target_url>x_766968_card_requ_card_request_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

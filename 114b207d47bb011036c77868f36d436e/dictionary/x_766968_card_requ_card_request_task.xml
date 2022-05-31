@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Card Request Task" max_length="40" name="x_766968_card_requ_card_request_task" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="500" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="50" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="125" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Surname" max_length="125" name="surname" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="state" label="State" language="en" table="x_766968_card_requ_card_request_make">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <help/>
+            <hint/>
+            <label>State</label>
+            <language>en</language>
+            <name>x_766968_card_requ_card_request_make</name>
+            <plural>States</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-31 19:59:57</sys_created_on>
+            <sys_id>9f1570b947fb011036c77868f36d4380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>State</sys_name>
+            <sys_package display_value="Card Request" source="x_766968_card_requ">114b207d47bb011036c77868f36d436e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Card Request">114b207d47bb011036c77868f36d436e</sys_scope>
+            <sys_update_name>sys_documentation_x_766968_card_requ_card_request_make_state_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-31 19:59:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

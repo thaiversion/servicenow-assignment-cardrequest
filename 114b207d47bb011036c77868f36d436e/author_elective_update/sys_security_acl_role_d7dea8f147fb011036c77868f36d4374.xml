@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 19:32:38</sys_created_on>
+        <sys_id>d7dea8f147fb011036c77868f36d4374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_766968_card_requ_card_request_make.x_766968_card_requ.supervisor</sys_name>
+        <sys_package display_value="Card Request" source="x_766968_card_requ">114b207d47bb011036c77868f36d436e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Card Request">114b207d47bb011036c77868f36d436e</sys_scope>
+        <sys_security_acl display_value="x_766968_card_requ_card_request_make">9bdea8f147fb011036c77868f36d4371</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d7dea8f147fb011036c77868f36d4374</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 19:32:38</sys_updated_on>
+        <sys_user_role display_value="x_766968_card_requ.supervisor" name="x_766968_card_requ.supervisor">ce6becbd47bb011036c77868f36d4355</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Card Request">114b207d47bb011036c77868f36d436e</application>
+        <file_path/>
+        <instance_id>8fbcb9e1dbb32f400ae3ac44d4961934</instance_id>
+        <instance_name>dev73239</instance_name>
+        <name>sys_security_acl_role_d7dea8f147fb011036c77868f36d4374</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-31 19:32:38</sys_created_on><sys_id>d7dea8f147fb011036c77868f36d4374</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_766968_card_requ_card_request_make.x_766968_card_requ.supervisor</sys_name><sys_package display_value="Card Request" source="x_766968_card_requ">114b207d47bb011036c77868f36d436e</sys_package><sys_policy/><sys_scope display_value="Card Request">114b207d47bb011036c77868f36d436e</sys_scope><sys_security_acl display_value="x_766968_card_requ_card_request_make">9bdea8f147fb011036c77868f36d4371</sys_security_acl><sys_update_name>sys_security_acl_role_d7dea8f147fb011036c77868f36d4374</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-31 19:32:38</sys_updated_on><sys_user_role display_value="x_766968_card_requ.supervisor" name="x_766968_card_requ.supervisor">ce6becbd47bb011036c77868f36d4355</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1616927866</payload_hash>
+        <record_name>x_766968_card_requ_card_request_make.x_766968_card_requ.supervisor</record_name>
+        <reverted_from/>
+        <source>d94b207d47bb011036c77868f36d4370</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 19:32:38</sys_created_on>
+        <sys_id>57dea8f147fb011036c77868f36d4377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1811b9b1b050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 19:32:38</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>9fdea8f16cfb0110ee3931172c479376</update_guid>
+        <update_guid_history>9fdea8f16cfb0110ee3931172c479376:-1616927866</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_766968_card_requ_card_request_make.x_766968_card_requ.supervisor">12ff6c3547fb011036c77868f36d43d8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 19:37:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>93952f01132e420088e16c4db0f30400</sys_id>
+        <sys_metadata>d7dea8f147fb011036c77868f36d4374</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_766968_card_requ_card_request_make.x_766968_card_requ.supervisor</sys_name>
+        <sys_package display_value="Card Request" source="x_766968_card_requ">114b207d47bb011036c77868f36d436e</sys_package>
+        <sys_parent display_value="">9bdea8f147fb011036c77868f36d4371</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Card Request">114b207d47bb011036c77868f36d436e</sys_scope>
+        <sys_scope_delete display_value="">3ca883990aa84785ad2bd8f4e7595c91</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d7dea8f147fb011036c77868f36d4374</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d7dea8f147fb011036c77868f36d4374">57dea8f147fb011036c77868f36d4377</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 19:37:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
