@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Card Request Task2" max_length="40" name="x_766968_card_requ_card_request_task2" sizeclass="5" type="collection">
+        <element label="Address" max_length="500" name="address" type="string"/>
+        <element label="Email" max_length="50" name="email" type="string"/>
+        <element label="Name" max_length="125" name="name" type="string"/>
+        <element label="Phonenumber" max_length="30" name="phonenumber" type="string"/>
+        <element label="Surname" max_length="125" name="surname" type="string"/>
+    </element>
+</database>

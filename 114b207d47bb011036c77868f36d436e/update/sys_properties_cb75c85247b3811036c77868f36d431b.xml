@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.text_search.fallback_table_list</name>
+        <read_roles/>
+        <suffix>x_766968_card_requ</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 05:48:49</sys_created_on>
+        <sys_id>cb75c85247b3811036c77868f36d431b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.text_search.fallback_table_list</sys_name>
+        <sys_package display_value="Card Request" source="x_766968_card_requ">114b207d47bb011036c77868f36d436e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Card Request">114b207d47bb011036c77868f36d436e</sys_scope>
+        <sys_update_name>sys_properties_cb75c85247b3811036c77868f36d431b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 05:48:49</sys_updated_on>
+        <type>string</type>
+        <value>x_766968_card_requ_card_request_task</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb75c85247b3811036c77868f36d431b"/>
+</record_update>
